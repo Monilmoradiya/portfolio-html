@@ -1,0 +1,17 @@
+Full-stack development encompasses the entire process of building a web application, from the user interface (front-end) to the server-side logic and databases (back-end). A full-stack developer is essentially a software engineer capable of handling all aspects of web development, working with both front-end and back-end technologies. 
+Key aspects of full-stack development: 
+
+Front-end Development:
+This involves creating the user interface, including elements like buttons, text, and animations, using technologies like HTML, CSS, and JavaScript. 
+
+Back-end Development:
+This focuses on server-side logic, databases, and application programming interfaces (APIs) to handle the application's functionality and data. 
+
+Full-stack Developer:
+Individuals proficient in both front-end and back-end technologies, enabling them to build complete web applications from start to finish.
+ 
+Technologies:
+Common technologies used in full-stack development include HTML, CSS, JavaScript, PHP, Python, Node.js, and databases like MySQL, MongoDB, and PostgreSQL. 
+
+In essence, full-stack development is a holistic approach to web application development, where a single developer handles the entire lifecycle, from design to deployment. 
+This video provides an introduction to full stack web development:
